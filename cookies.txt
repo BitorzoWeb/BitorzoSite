@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-tamirs2702.wixsite.com	TRUE	/mysite-10	FALSE	1999999999	svSession	617bb6be1b1e24b08a376eced29c70cc4de99a1890774288e6e954e281d05af1e10561b29fa65725f55cf20e4a5fb7181e60994d53964e647acf431e4f798bcd82226351f085a97bebf7297667c1d59ed9c717a28b10e135ec43e1aa2e0eb999
-tamirs2702.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1598044738|chSaBHZqKpDR
-tamirs2702.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
-tamirs2702.wixsite.com	TRUE	/	FALSE	1999999999	hs	2132017294
-tamirs2702.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=euw2"
-
