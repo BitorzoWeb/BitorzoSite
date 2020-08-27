@@ -114,7 +114,7 @@ date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,C
 10:20:24	24730/24730	---M-Z	200	added ('OK')	text/html	etag:%22016813deae35ce939aa1c29f24d91615%22	https://signal.org/download/	C:/My%20Web%20Sites/BITO/signal.org/download/index.html	(from https://signal.org/)
 10:20:26	24824/24824	---M-Z	200	added ('OK')	text/html	etag:%22a8578cd6460782ae1f3f09ab7be967fb%22	https://signal.org/legal/	C:/My%20Web%20Sites/BITO/signal.org/legal/index.html	(from https://signal.org/)
 10:20:26	13757/13757	---M-Z	200	added ('OK')	text/html	etag:%22bb0e3543e456a4fc531be7d769dfcd4c%22	https://signal.org/workworkwork/	C:/My%20Web%20Sites/BITO/signal.org/workworkwork/index.html	(from https://signal.org/)
-10:20:26	11227/11227	---M-Z	200	added ('OK')	text/html	etag:%221ba6cb4874429dbce77f31e72d5e2518%22	https://signal.org/donate/	C:/My%20Web%20Sites/BITO/signal.org/donate/index.html	(from https://signal.org/)
+10:20:26	11227/11227	---M-Z	200	added ('OK')	text/html	etag:%221ba6cb4874429dbce77f31e72d5e2518%22	https://signal.org/donate/	https://bitorzo.github.io/SponsorBitorzo	(from https://signal.org/)
 10:20:26	13163/13163	---M-Z	200	added ('OK')	text/html	etag:%22de86f107d4983dbd0e0e953ab69a895a%22	https://signal.org/docs/	C:/My%20Web%20Sites/BITO/signal.org/docs/index.html	(from https://signal.org/)
 10:20:27	22130/22130	---M-Z	200	added ('OK')	text/html	etag:%2269b731c14a015fe358007b6f01393bb0%22	https://signal.org/download/windows/	C:/My%20Web%20Sites/BITO/signal.org/download/windows/index.html	(from https://signal.org/)
 10:20:27	20935/20935	---M-Z	200	added ('OK')	text/html	etag:%22eb27aa3587f3fa14d46918cf95253a2b%22	https://signal.org/download/ios/	C:/My%20Web%20Sites/BITO/signal.org/download/ios/index.html	(from https://signal.org/)
