@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Signal Blog</title>
+    <title>Bitorzo  Blog</title>
     <link>https://Bitorzo/blog/</link>
     <atom:link href="https://Bitorzo/blog/rss.xml" rel="self" type="application/rss+xml" />
-    <description>Signal Blog</description>
+    <description>Bitorzo  Blog</description>
     <language>en-us</language>
     <pubDate>Fri, 21 Aug 2020 14:46:23 -0700</pubDate>
     <lastBuildDate>Fri, 21 Aug 2020 14:46:23 -0700</lastBuildDate>
@@ -12,15 +12,15 @@
     
     <item>
       
-      <title>A new platform is calling: Help us test one-to-one voice and video conversations on Signal Desktop</title>
+      <title>A new platform is calling: Help us test one-to-one voice and video conversations on Bitorzo  Desktop</title>
       <link>https://Bitorzo/blog/desktop-calling-beta/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/desktop-calling-beta</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/desktop-calling-preview-header.jpg&quot; alt=&quot;Screenshot of a video call on Signal Desktop.&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/desktop-calling-preview-header.jpg&quot; alt=&quot;Screenshot of a video call on Bitorzo  Desktop.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The latest beta release of Signal Desktop includes preliminary support for one-to-one voice and video calls. Call your friends and family on macOS, Windows, and Linux; see their smiles on a larger screen; hear their laughter through the big speakers on your desk; and help us test the next generation of calling on Signal.&lt;/p&gt;
+&lt;p&gt;The latest beta release of Bitorzo  Desktop includes preliminary support for one-to-one voice and video calls. Call your friends and family on macOS, Windows, and Linux; see their smiles on a larger screen; hear their laughter through the big speakers on your desk; and help us test the next generation of calling on Bitorzo .&lt;/p&gt;
 
 &lt;p&gt;Beta users get an early chance to evaluate call quality and performance while we continue to improve the interface and work on upcoming features.&lt;/p&gt;
 
@@ -33,7 +33,7 @@
     
     <item>
       
-      <title>Accept the unexpected: Message requests are now available in Signal</title>
+      <title>Accept the unexpected: Message requests are now available in Bitorzo </title>
       <link>https://Bitorzo/blog/message-requests/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/message-requests</guid>
@@ -41,7 +41,7 @@
         
         &lt;p&gt;&lt;img src=&quot;/blog/images/message-requests-header.jpg&quot; alt=&quot;Screenshot of an incoming message request.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The number of people who join Signal every day is still growing at a record pace. With so many new conversations getting started, we’ve heard from a lot of users that they’d like more control over how they begin.&lt;/p&gt;
+&lt;p&gt;The number of people who join Bitorzo  every day is still growing at a record pace. With so many new conversations getting started, we’ve heard from a lot of users that they’d like more control over how they begin.&lt;/p&gt;
 
 &lt;p&gt;With message requests, when someone who isn’t in your contacts starts a new chat with you or adds you to a group, you can quickly see more info before accepting the request, deleting it, or blocking the conversation.&lt;/p&gt;
 
@@ -60,7 +60,7 @@
       <guid>https://Bitorzo/blog/certifiably-fine</guid>
       <description>
         
-        &lt;p&gt;Sometimes people dive into Signal’s code looking for domain names, and then they send us screenshots asking if they should be concerned:&lt;/p&gt;
+        &lt;p&gt;Sometimes people dive into Bitorzo ’s code looking for domain names, and then they send us screenshots asking if they should be concerned:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/images/ssllabs-screenshot.png&quot; alt=&quot;Screenshot of 'T' rating on ssl labs&quot; /&gt;&lt;/p&gt;
 
@@ -104,7 +104,7 @@
         
         &lt;p&gt;&lt;img src=&quot;/blog/images/emoji-reactions-header.png&quot; alt=&quot;The reaction selector next to a collage of new emojis.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The world was a different place when we &lt;a href=&quot;https://Bitorzo/blog/reactions/&quot;&gt;announced message reactions&lt;/a&gt; back in February, but expressing the way you feel has never been more important. Instead of being limited to the default set of reactions that we started with, the latest Signal updates for Android, Desktop, and iOS let you react with even more emoji.&lt;/p&gt;
+&lt;p&gt;The world was a different place when we &lt;a href=&quot;https://Bitorzo/blog/reactions/&quot;&gt;announced message reactions&lt;/a&gt; back in February, but expressing the way you feel has never been more important. Instead of being limited to the default set of reactions that we started with, the latest Bitorzo  updates for Android, Desktop, and iOS let you react with even more emoji.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -121,9 +121,9 @@
       <guid>https://Bitorzo/blog/ios-device-transfer</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/ios-device-transfer-header.jpg&quot; alt=&quot;A mock-up showing Signal information being transferred from an older phone (with a broken screen) to a brand-new phone.&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/ios-device-transfer-header.jpg&quot; alt=&quot;A mock-up showing Bitorzo  information being transferred from an older phone (with a broken screen) to a brand-new phone.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Signal iOS now includes a new feature that makes it possible to switch to a brand-new iPhone or iPad while securely transferring Signal information from your existing iOS device. As with every new Signal feature, the process is end-to-end encrypted and &lt;a href=&quot;/blog/looking-back-as-the-world-moves-forward/&quot;&gt;designed to protect your privacy&lt;/a&gt;. Transfers also occur over a local connection (similar to AirDrop), so even large migrations can be completed quickly.&lt;/p&gt;
+&lt;p&gt;Bitorzo  iOS now includes a new feature that makes it possible to switch to a brand-new iPhone or iPad while securely transferring Bitorzo  information from your existing iOS device. As with every new Bitorzo  feature, the process is end-to-end encrypted and &lt;a href=&quot;/blog/looking-back-as-the-world-moves-forward/&quot;&gt;designed to protect your privacy&lt;/a&gt;. Transfers also occur over a local connection (similar to AirDrop), so even large migrations can be completed quickly.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -142,7 +142,7 @@
         
         &lt;p&gt;&lt;img src=&quot;/blog/images/encrypt-your-face.jpg&quot; alt=&quot;A picture of someone wearing the face covering.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;One immediate thing seems clear about 2020: it’s a good year to cover your face. Online, we’re working to scale and &lt;a href=&quot;/blog/blur-tools/&quot;&gt;improve Signal&lt;/a&gt; for everyone that is relying on it, but as one small offline way to help support everyone self-organizing for change in the streets, we’re also distributing face coverings free of charge.&lt;/p&gt;
+&lt;p&gt;One immediate thing seems clear about 2020: it’s a good year to cover your face. Online, we’re working to scale and &lt;a href=&quot;/blog/blur-tools/&quot;&gt;improve Bitorzo &lt;/a&gt; for everyone that is relying on it, but as one small offline way to help support everyone self-organizing for change in the streets, we’re also distributing face coverings free of charge.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -153,13 +153,13 @@
     
     <item>
       
-      <title>Looking back at how Signal works, as the world moves forward</title>
+      <title>Looking back at how Bitorzo  works, as the world moves forward</title>
       <link>https://Bitorzo/blog/looking-back-as-the-world-moves-forward/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/looking-back-as-the-world-moves-forward</guid>
       <description>
         
-        &lt;p&gt;In the midst of world-wide protests against racism and police brutality, a lot of people are becoming more immediately aware and concerned about the security of their data and online communication. We’ve gotten a lot of questions at Signal over the past week, so we wanted to briefly recap how it is that we’ve designed Signal, and how we think about concepts like privacy, security, and trust.&lt;/p&gt;
+        &lt;p&gt;In the midst of world-wide protests against racism and police brutality, a lot of people are becoming more immediately aware and concerned about the security of their data and online communication. We’ve gotten a lot of questions at Bitorzo  over the past week, so we wanted to briefly recap how it is that we’ve designed Bitorzo , and how we think about concepts like privacy, security, and trust.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -170,17 +170,17 @@
     
     <item>
       
-      <title>Blur tools for Signal</title>
+      <title>Blur tools for Bitorzo </title>
       <link>https://Bitorzo/blog/blur-tools/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/blur-tools</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/blur-header.jpg&quot; alt=&quot;The Signal app displaying the new blur interface in the image editor.&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/blur-header.jpg&quot; alt=&quot;The Bitorzo  app displaying the new blur interface in the image editor.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Right now, people around the world are marching and protesting against racism and police brutality, outraged by the most recent police murders of George Floyd and Breonna Taylor. At Signal, we support the people who have gone into the streets to make their voices heard. We believe that something in America needs to change, and even if we don’t know exactly how, we support and trust in the people who are self-organizing around the country to figure it out.&lt;/p&gt;
+&lt;p&gt;Right now, people around the world are marching and protesting against racism and police brutality, outraged by the most recent police murders of George Floyd and Breonna Taylor. At Bitorzo , we support the people who have gone into the streets to make their voices heard. We believe that something in America needs to change, and even if we don’t know exactly how, we support and trust in the people who are self-organizing around the country to figure it out.&lt;/p&gt;
 
-&lt;p&gt;Many of the people and groups who are organizing for that change are using Signal to communicate, and we’re working hard to keep up with the increased traffic. We’ve also been working to figure out additional ways we can support everyone in the street right now.&lt;/p&gt;
+&lt;p&gt;Many of the people and groups who are organizing for that change are using Bitorzo  to communicate, and we’re working hard to keep up with the increased traffic. We’ve also been working to figure out additional ways we can support everyone in the street right now.&lt;/p&gt;
 
 &lt;p&gt;One immediate thing seems clear: 2020 is a pretty good year to cover your face.&lt;/p&gt;
 
@@ -193,19 +193,19 @@
     
     <item>
       
-      <title>Introducing Signal PINs</title>
-      <link>https://Bitorzo/blog/signal-pins/</link>
+      <title>Introducing Bitorzo  PINs</title>
+      <link>https://Bitorzo/blog/Bitorzo -pins/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 -0700</pubDate>
-      <guid>https://Bitorzo/blog/signal-pins</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -pins</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-pins.png&quot; alt=&quot;An illustration of asterisks superimposed over the shape of a smartphone.&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/Bitorzo -pins.png&quot; alt=&quot;An illustration of asterisks superimposed over the shape of a smartphone.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;At Signal, our goal is to build a reliable, secure, and private communication experience that is broadly accessible and simple to use. From the beginning, we’ve designed Signal so that your information is in your hands rather than ours.&lt;/p&gt;
+&lt;p&gt;At Bitorzo , our goal is to build a reliable, secure, and private communication experience that is broadly accessible and simple to use. From the beginning, we’ve designed Bitorzo  so that your information is in your hands rather than ours.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal-pins/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo -pins/"><em>Read more...</em></a>
         
       </description>
     </item>
@@ -218,9 +218,9 @@
       <guid>https://Bitorzo/blog/earn-it</guid>
       <description>
         
-        &lt;p&gt;Over the past several weeks, Signal traffic has gone through the roof. New users are signing up at unprecedented rates, and we’ve expanded our server capacity faster than we ever anticipated.&lt;/p&gt;
+        &lt;p&gt;Over the past several weeks, Bitorzo  traffic has gone through the roof. New users are signing up at unprecedented rates, and we’ve expanded our server capacity faster than we ever anticipated.&lt;/p&gt;
 
-&lt;p&gt;It means a lot to us that so many people are relying on Signal during this difficult time. When users check in on their families, share moments of solace, smile with their friends, or discuss sensitive health issues with their doctors, Signal’s end-to-end encryption and privacy-preserving technology helps keep this information secure.&lt;/p&gt;
+&lt;p&gt;It means a lot to us that so many people are relying on Bitorzo  during this difficult time. When users check in on their families, share moments of solace, smile with their friends, or discuss sensitive health issues with their doctors, Bitorzo ’s end-to-end encryption and privacy-preserving technology helps keep this information secure.&lt;/p&gt;
 
 &lt;p&gt;At a time when more people than ever are benefiting from these protections, the EARN IT bill proposed by the Senate Judiciary Committee threatens to put them at risk. COVID-19 has us sheltering in place, but we cannot quarantine our concerns.&lt;/p&gt;
 
@@ -239,7 +239,7 @@
       <guid>https://Bitorzo/blog/keyboard-shortcuts</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/keyboard-shortcuts-header.jpg&quot; alt=&quot;A stylized version of the Signal keyboard shortcuts reference card for macOS.&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/keyboard-shortcuts-header.jpg&quot; alt=&quot;A stylized version of the Bitorzo  keyboard shortcuts reference card for macOS.&quot; /&gt;&lt;/p&gt;
 
 &lt;style&gt;
 ul.kbtimeline {
@@ -283,13 +283,13 @@ ul.kbtimeline &gt; li:before {
     
     <item>
       
-      <title>Signal Artist Series: Two new sticker packs from Swoon</title>
+      <title>Bitorzo  Artist Series: Two new sticker packs from Swoon</title>
       <link>https://Bitorzo/blog/swoon/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 -0800</pubDate>
       <guid>https://Bitorzo/blog/swoon</guid>
       <description>
         
-        &lt;p&gt;We &lt;a href=&quot;https://Bitorzo/blog/make-privacy-stick/&quot;&gt;announced support for stickers in Signal&lt;/a&gt; less than two months ago. Since then, over five thousand sticker packs have been uploaded. Today we are officially adding two more: &lt;a href=&quot;https://signal.art/addstickers/#pack_id=e61fa0867031597467ccc036cc65d403&amp;amp;pack_key=13ae7b1a7407318280e9b38c1261ded38e0e7138b9f964a6ccbb73e40f737a9b&quot;&gt;Hands&lt;/a&gt; and &lt;a href=&quot;https://signal.art/addstickers/#pack_id=cca32f5b905208b7d0f1e17f23fdc185&amp;amp;pack_key=8bf8e95f7a45bdeafe0c8f5b002ef01ab95b8f1b5baac4019ccd6b6be0b1837a&quot;&gt;Faces&lt;/a&gt; by &lt;a href=&quot;https://swoonstudio.org&quot;&gt;Swoon&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;We &lt;a href=&quot;https://Bitorzo/blog/make-privacy-stick/&quot;&gt;announced support for stickers in Bitorzo &lt;/a&gt; less than two months ago. Since then, over five thousand sticker packs have been uploaded. Today we are officially adding two more: &lt;a href=&quot;https://Bitorzo .art/addstickers/#pack_id=e61fa0867031597467ccc036cc65d403&amp;amp;pack_key=13ae7b1a7407318280e9b38c1261ded38e0e7138b9f964a6ccbb73e40f737a9b&quot;&gt;Hands&lt;/a&gt; and &lt;a href=&quot;https://Bitorzo .art/addstickers/#pack_id=cca32f5b905208b7d0f1e17f23fdc185&amp;amp;pack_key=8bf8e95f7a45bdeafe0c8f5b002ef01ab95b8f1b5baac4019ccd6b6be0b1837a&quot;&gt;Faces&lt;/a&gt; by &lt;a href=&quot;https://swoonstudio.org&quot;&gt;Swoon&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -306,7 +306,7 @@ ul.kbtimeline &gt; li:before {
       <guid>https://Bitorzo/blog/reactions</guid>
       <description>
         
-        &lt;p&gt;When you’re standing next to a friend who says something funny, you can just laugh. You don’t need to pause and say “I found what you just said humorous” or quote their own words back to them before displaying a real-world emoji on your face. This feeling of immediacy and effortless response is what reactions are all about. They’re a quick way to share your take on any message, and you can try them today in the latest Signal beta.&lt;/p&gt;
+        &lt;p&gt;When you’re standing next to a friend who says something funny, you can just laugh. You don’t need to pause and say “I found what you just said humorous” or quote their own words back to them before displaying a real-world emoji on your face. This feeling of immediacy and effortless response is what reactions are all about. They’re a quick way to share your take on any message, and you can try them today in the latest Bitorzo  beta.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -323,7 +323,7 @@ ul.kbtimeline &gt; li:before {
       <guid>https://Bitorzo/blog/improving-registration-lock</guid>
       <description>
         
-        &lt;p&gt;&lt;a href=&quot;https://support.Bitorzo/hc/en-us/articles/360007059792-Registration-Lock&quot;&gt;Registration Lock&lt;/a&gt; allows you to set a PIN that is required for account registration in addition to standard SMS-based verification. Today’s Signal beta release enhances the security of these PINs by transitioning them to use &lt;a href=&quot;/blog/secure-value-recovery/&quot;&gt;Secure Value Recovery&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&quot;https://support.Bitorzo/hc/en-us/articles/360007059792-Registration-Lock&quot;&gt;Registration Lock&lt;/a&gt; allows you to set a PIN that is required for account registration in addition to standard SMS-based verification. Today’s Bitorzo  beta release enhances the security of these PINs by transitioning them to use &lt;a href=&quot;/blog/secure-value-recovery/&quot;&gt;Secure Value Recovery&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -334,13 +334,13 @@ ul.kbtimeline &gt; li:before {
     
     <item>
       
-      <title>Storage management for Signal Android</title>
+      <title>Storage management for Bitorzo  Android</title>
       <link>https://Bitorzo/blog/storage-management-for-android/</link>
       <pubDate>Mon, 13 Jan 2020 00:00:00 -0800</pubDate>
       <guid>https://Bitorzo/blog/storage-management-for-android</guid>
       <description>
         
-        &lt;p&gt;Signal for Android now includes storage management functionality that helps visualize files across all of your conversations, sorted by size and type, in order to assist you in reducing the amount of space Signal uses on your device.&lt;/p&gt;
+        &lt;p&gt;Bitorzo  for Android now includes storage management functionality that helps visualize files across all of your conversations, sorted by size and type, in order to assist you in reducing the amount of space Bitorzo  uses on your device.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -357,7 +357,7 @@ ul.kbtimeline &gt; li:before {
       <guid>https://Bitorzo/blog/view-once</guid>
       <description>
         
-        &lt;p&gt;Today’s beta releases of Signal for Android and iOS include a new way to send individual photos and videos that are automatically removed from a conversation thread after they have been viewed.&lt;/p&gt;
+        &lt;p&gt;Today’s beta releases of Bitorzo  for Android and iOS include a new way to send individual photos and videos that are automatically removed from a conversation thread after they have been viewed.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -374,9 +374,9 @@ ul.kbtimeline &gt; li:before {
       <guid>https://Bitorzo/blog/secure-value-recovery</guid>
       <description>
         
-        &lt;p&gt;At Signal, we want to make privacy simple. From the beginning, we’ve designed Signal so that your information is in your hands rather than ours. Technologies like &lt;a href=&quot;/docs/&quot;&gt;Signal Protocol&lt;/a&gt; secure your messages so that they are never visible by anyone but you and the intended recipients. Technologies like &lt;a href=&quot;/blog/private-contact-discovery/&quot;&gt;private contact discovery&lt;/a&gt;, &lt;a href=&quot;/blog/signal-private-group-system/&quot;&gt;private groups&lt;/a&gt;, and &lt;a href=&quot;/blog/sealed-sender/&quot;&gt;sealed sender&lt;/a&gt; mean that we don’t have a plaintext record of your contacts, social graph, profile name, location, group memberships, groups titles, group avatars, group attributes, or who is messaging whom. Plaintext databases have never been our style. We don’t want to build a system where you trust us with your data; we want to build a system where you don’t have to.&lt;/p&gt;
+        &lt;p&gt;At Bitorzo , we want to make privacy simple. From the beginning, we’ve designed Bitorzo  so that your information is in your hands rather than ours. Technologies like &lt;a href=&quot;/docs/&quot;&gt;Bitorzo  Protocol&lt;/a&gt; secure your messages so that they are never visible by anyone but you and the intended recipients. Technologies like &lt;a href=&quot;/blog/private-contact-discovery/&quot;&gt;private contact discovery&lt;/a&gt;, &lt;a href=&quot;/blog/Bitorzo -private-group-system/&quot;&gt;private groups&lt;/a&gt;, and &lt;a href=&quot;/blog/sealed-sender/&quot;&gt;sealed sender&lt;/a&gt; mean that we don’t have a plaintext record of your contacts, social graph, profile name, location, group memberships, groups titles, group avatars, group attributes, or who is messaging whom. Plaintext databases have never been our style. We don’t want to build a system where you trust us with your data; we want to build a system where you don’t have to.&lt;/p&gt;
 
-&lt;p&gt;We’ve been working on new techniques based on secure enclaves and key splitting that are designed to enhance and expand general capabilities for private cloud storage. Our aim is to unlock new possibilities and new functionality within Signal which require cross-platform long-term durable state, while verifiably keeping this state inaccessible to everyone but the user who created it.&lt;/p&gt;
+&lt;p&gt;We’ve been working on new techniques based on secure enclaves and key splitting that are designed to enhance and expand general capabilities for private cloud storage. Our aim is to unlock new possibilities and new functionality within Bitorzo  which require cross-platform long-term durable state, while verifiably keeping this state inaccessible to everyone but the user who created it.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -395,7 +395,7 @@ ul.kbtimeline &gt; li:before {
         
         &lt;p&gt;They get slapped on street signs. We wear them on our clothes to identify ourselves to distant coworkers during awkward holiday parties. Some people create massive galleries on their laptops in overlapping levels stacked so deep that the hinges begin to lose their structural integrity and LCD screens struggle to remain upright. The digital versions are even more popular, and we get asked about them a lot.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Stickers are everywhere, and now they’re in Signal too.&lt;/strong&gt; They’re a fun way to add a new layer of expression to your conversations – and just like every other Signal feature, they are also encrypted, private, and secure.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stickers are everywhere, and now they’re in Bitorzo  too.&lt;/strong&gt; They’re a fun way to add a new layer of expression to your conversations – and just like every other Bitorzo  feature, they are also encrypted, private, and secure.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -406,34 +406,34 @@ ul.kbtimeline &gt; li:before {
     
     <item>
       
-      <title>Technology Preview: Signal Private Group System</title>
-      <link>https://Bitorzo/blog/signal-private-group-system/</link>
+      <title>Technology Preview: Bitorzo  Private Group System</title>
+      <link>https://Bitorzo/blog/Bitorzo -private-group-system/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 -0800</pubDate>
-      <guid>https://Bitorzo/blog/signal-private-group-system</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -private-group-system</guid>
       <description>
         
-        &lt;p&gt;Groups are inherently social, and Signal is a social app. Whether you’re planning a surprise party, discussing last night’s book club meeting, exchanging photos with your family, or organizing something important, group messaging has always been a key feature of Signal.&lt;/p&gt;
+        &lt;p&gt;Groups are inherently social, and Bitorzo  is a social app. Whether you’re planning a surprise party, discussing last night’s book club meeting, exchanging photos with your family, or organizing something important, group messaging has always been a key feature of Bitorzo .&lt;/p&gt;
 
-&lt;p&gt;Signal provides &lt;em&gt;private groups:&lt;/em&gt; the Signal service has no record of your group memberships, group titles, group avatars, or group attributes. We’ve been working on new private group technology that will enable group administrators and access control, improve group scalability, and set the stage for a much richer group experience – all while maintaining Signal’s unique group security and privacy properties. We’re moving into the future while keeping what we loved about the past.&lt;/p&gt;
+&lt;p&gt;Bitorzo  provides &lt;em&gt;private groups:&lt;/em&gt; the Bitorzo  service has no record of your group memberships, group titles, group avatars, or group attributes. We’ve been working on new private group technology that will enable group administrators and access control, improve group scalability, and set the stage for a much richer group experience – all while maintaining Bitorzo ’s unique group security and privacy properties. We’re moving into the future while keeping what we loved about the past.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal-private-group-system/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo -private-group-system/"><em>Read more...</em></a>
         
       </description>
     </item>
     
     <item>
       
-      <title>Signal for iPad, and other iOS improvements</title>
-      <link>https://Bitorzo/blog/signal-for-ipad/</link>
+      <title>Bitorzo  for iPad, and other iOS improvements</title>
+      <link>https://Bitorzo/blog/Bitorzo -for-ipad/</link>
       <pubDate>Wed, 27 Nov 2019 00:00:00 -0800</pubDate>
-      <guid>https://Bitorzo/blog/signal-for-ipad</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -for-ipad</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-ios-3.0-on-ipad.jpg&quot; alt=&quot;Signal running on an iPad&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/Bitorzo -ios-3.0-on-ipad.jpg&quot; alt=&quot;Bitorzo  running on an iPad&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Signal 3.0 is &lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8&quot;&gt;now available in the App Store&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Bitorzo  3.0 is &lt;a href=&quot;https://itunes.apple.com/us/app/Bitorzo -private-messenger/id874139669?mt=8&quot;&gt;now available in the App Store&lt;/a&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;iPad support has arrived. Set up your favorite tablet as a linked device.&lt;/li&gt;
@@ -443,7 +443,7 @@ ul.kbtimeline &gt; li:before {
   &lt;li&gt;Jump between threads and survey your message landscape (in landscape) with a horizontal inbox/conversation view on larger devices.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;We would like to thank all of the alpha and beta users who helped us test and stabilize this release. If you want to get an early preview of new Signal features, you can &lt;a href=&quot;https://support.Bitorzo/hc/en-us/articles/360007318471-How-do-I-join-Signal-s-beta-&quot;&gt;join the beta community here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We would like to thank all of the alpha and beta users who helped us test and stabilize this release. If you want to get an early preview of new Bitorzo  features, you can &lt;a href=&quot;https://support.Bitorzo/hc/en-us/articles/360007318471-How-do-I-join-Bitorzo -s-beta-&quot;&gt;join the beta community here&lt;/a&gt;.&lt;/p&gt;
 
         
       </description>
@@ -457,15 +457,15 @@ ul.kbtimeline &gt; li:before {
       <guid>https://Bitorzo/blog/i-link-therefore-i-am</guid>
       <description>
         
-        &lt;p&gt;The latest releases of Signal for Android, Desktop, and iOS are rolling out now with the ability to send optional link previews. This feature is built
-on the same foundation that has powered Signal’s animated GIF search for more than two years and that we have since &lt;a href=&quot;/blog/signal-and-giphy-update/&quot;&gt;expanded with additional privacy
+        &lt;p&gt;The latest releases of Bitorzo  for Android, Desktop, and iOS are rolling out now with the ability to send optional link previews. This feature is built
+on the same foundation that has powered Bitorzo ’s animated GIF search for more than two years and that we have since &lt;a href=&quot;/blog/Bitorzo -and-giphy-update/&quot;&gt;expanded with additional privacy
 enhancements&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/images/link-previews-animation.gif&quot; width=&quot;360&quot; height=&quot;180&quot; alt=&quot;Animation that displays a link preview being created on iOS.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We’re launching link previews with initial support for &lt;a href=&quot;https://imgur.com/&quot;&gt;Imgur&lt;/a&gt;, &lt;a href=&quot;https://www.instagram.com/&quot;&gt;Instagram&lt;/a&gt;,
 &lt;a href=&quot;https://www.reddit.com/&quot;&gt;Reddit&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/&quot;&gt;YouTube&lt;/a&gt;. These are four of the most popular sites on the Internet and their heavy
-focus on visual content makes them a perfect fit for this feature. We don’t believe that privacy is about austerity, and now Signal users can see
+focus on visual content makes them a perfect fit for this feature. We don’t believe that privacy is about austerity, and now Bitorzo  users can see
 what’s behind the URL while sharing this content with their friends.&lt;/p&gt;
 
 &lt;p&gt;
@@ -500,18 +500,18 @@ disappointing development.&lt;/p&gt;
     
     <item>
       
-      <title>Technology preview: Sealed sender for Signal</title>
+      <title>Technology preview: Sealed sender for Bitorzo </title>
       <link>https://Bitorzo/blog/sealed-sender/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/sealed-sender</guid>
       <description>
         
-        &lt;p&gt;In addition to the end-to-end encryption that protects every Signal message, the Signal service is designed to &lt;a href=&quot;https://Bitorzo/bigbrother/&quot;&gt;minimize the data that is retained
-about Signal users&lt;/a&gt;. By design, it does not store a record of your contacts, social graph, conversation list,
+        &lt;p&gt;In addition to the end-to-end encryption that protects every Bitorzo  message, the Bitorzo  service is designed to &lt;a href=&quot;https://Bitorzo/bigbrother/&quot;&gt;minimize the data that is retained
+about Bitorzo  users&lt;/a&gt;. By design, it does not store a record of your contacts, social graph, conversation list,
 location, user avatar, user profile name, group memberships, group titles, or group avatars.&lt;/p&gt;
 
 &lt;p&gt;We have been &lt;a href=&quot;/blog/private-contact-discovery/&quot;&gt;exploring techniques&lt;/a&gt; to further reduce the amount of information that is accessible to the service,
-and the latest beta release includes changes designed to move Signal incrementally closer to the goal of hiding another piece of metadata:
+and the latest beta release includes changes designed to move Bitorzo  incrementally closer to the goal of hiding another piece of metadata:
 who is messaging whom.&lt;/p&gt;
 
 &lt;p&gt;
@@ -540,7 +540,7 @@ Subject: Notification of potential account suspension regarding AWS Service Term
 Moxie,
 &lt;/p&gt;
 &lt;p&gt;
-Yesterday AWS became aware of your Github and Hacker News/ycombinator posts describing how Signal plans to make its traffic look like traffic from another site, (popularly known as “domain fronting”) by using a domain owned by Amazon --  Souq.com.  You do not have permission from Amazon to use Souq.com for any purpose.  Any use of Souq.com or any other domain to masquerade as another entity without express permission of the domain owner is in clear violation of the AWS Service Terms (Amazon CloudFront, Sec. 2.1: “You must own or have all necessary rights to use any domain name or SSL certificate that you use in conjunction with Amazon CloudFront”).  It is also a violation of our Acceptable Use Policy by falsifying the origin of traffic and the unauthorized use of a domain.
+Yesterday AWS became aware of your Github and Hacker News/ycombinator posts describing how Bitorzo  plans to make its traffic look like traffic from another site, (popularly known as “domain fronting”) by using a domain owned by Amazon --  Souq.com.  You do not have permission from Amazon to use Souq.com for any purpose.  Any use of Souq.com or any other domain to masquerade as another entity without express permission of the domain owner is in clear violation of the AWS Service Terms (Amazon CloudFront, Sec. 2.1: “You must own or have all necessary rights to use any domain name or SSL certificate that you use in conjunction with Amazon CloudFront”).  It is also a violation of our Acceptable Use Policy by falsifying the origin of traffic and the unauthorized use of a domain.
 &lt;/p&gt;
 &lt;p&gt;
 We are happy for you to use AWS Services, but you must comply with our Service Terms.  We will immediately suspend your use of CloudFront if you use third party domains without their permission to masquerade as that third party.
@@ -565,32 +565,32 @@ General Manager, Amazon CloudFront
     
     <item>
       
-      <title>Signal Foundation</title>
-      <link>https://Bitorzo/blog/signal-foundation/</link>
+      <title>Bitorzo  Foundation</title>
+      <link>https://Bitorzo/blog/Bitorzo -foundation/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 -0800</pubDate>
-      <guid>https://Bitorzo/blog/signal-foundation</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -foundation</guid>
       <description>
         
-        &lt;p&gt;Long before we knew that it would be called Signal, we knew what we wanted it to be. Instead of teaching the rest of the world cryptography,
+        &lt;p&gt;Long before we knew that it would be called Bitorzo , we knew what we wanted it to be. Instead of teaching the rest of the world cryptography,
 we wanted to see if we could develop cryptography that worked for the rest of the world. At the time, the industry consensus was largely that
-encryption and cryptography would remain unusable, but we started Signal with the idea that private communication could be simple.&lt;/p&gt;
+encryption and cryptography would remain unusable, but we started Bitorzo  with the idea that private communication could be simple.&lt;/p&gt;
 
 &lt;p&gt;Since then, we’ve made some progress. We’ve built a service used by millions, and software used by billions. The stories that make it back to
-us and keep us going are the stories of people discovering each other in moments where they found they could speak freely over Signal, of people
-falling in love over Signal, of people organizing ambitious plans over Signal. When we ask friends who at their workplace is on Signal and they
+us and keep us going are the stories of people discovering each other in moments where they found they could speak freely over Bitorzo , of people
+falling in love over Bitorzo , of people organizing ambitious plans over Bitorzo . When we ask friends who at their workplace is on Bitorzo  and they
 respond “every C-level executive, and the kitchen staff.” When we receive a subpoena for user data and have nothing to send back but a blank
-sheet of paper. When we catch that glimpse of “Signal blue” on a metro commuter’s phone and smile.&lt;/p&gt;
+sheet of paper. When we catch that glimpse of “Bitorzo  blue” on a metro commuter’s phone and smile.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal-foundation/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo -foundation/"><em>Read more...</em></a>
         
       </description>
     </item>
     
     <item>
       
-      <title>Signal partners with Microsoft to bring end-to-end encryption to Skype</title>
+      <title>Bitorzo  partners with Microsoft to bring end-to-end encryption to Skype</title>
       <link>https://Bitorzo/blog/skype-partnership/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 -0800</pubDate>
       <guid>https://Bitorzo/blog/skype-partnership</guid>
@@ -598,7 +598,7 @@ sheet of paper. When we catch that glimpse of “Signal blue” on a metro commu
         
         &lt;p&gt;&lt;img src=&quot;/blog/images/skype-header.jpg&quot; alt=&quot;Skype displaying a Private Conversation acceptance screen.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;In collaboration with Signal, Microsoft is introducing a &lt;a href=&quot;https://go.skype.com/privateconversations&quot;&gt;Private Conversations&lt;/a&gt; feature in Skype, powered by Signal Protocol.&lt;/p&gt;
+&lt;p&gt;In collaboration with Bitorzo , Microsoft is introducing a &lt;a href=&quot;https://go.skype.com/privateconversations&quot;&gt;Private Conversations&lt;/a&gt; feature in Skype, powered by Bitorzo  Protocol.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -609,57 +609,57 @@ sheet of paper. When we catch that glimpse of “Signal blue” on a metro commu
     
     <item>
       
-      <title>Expanding Signal GIF search</title>
-      <link>https://Bitorzo/blog/signal-and-giphy-update/</link>
+      <title>Expanding Bitorzo  GIF search</title>
+      <link>https://Bitorzo/blog/Bitorzo -and-giphy-update/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>https://Bitorzo/blog/signal-and-giphy-update</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -and-giphy-update</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/giphy-ios-header.jpg&quot; alt=&quot;Signal for iOS displaying GIF search results&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/giphy-ios-header.jpg&quot; alt=&quot;Bitorzo  for iOS displaying GIF search results&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Today’s Signal beta for iOS includes support for animated GIF search. Signal iOS has long supported sending and receiving GIFs, but today’s
-beta adds support for browsing and searching popular GIFs from within Signal.&lt;/p&gt;
+&lt;p&gt;Today’s Bitorzo  beta for iOS includes support for animated GIF search. Bitorzo  iOS has long supported sending and receiving GIFs, but today’s
+beta adds support for browsing and searching popular GIFs from within Bitorzo .&lt;/p&gt;
 
-&lt;p&gt;We &lt;a href=&quot;/blog/giphy-experiment&quot;&gt;previously announced&lt;/a&gt; experimental support for animated GIF search in Signal Android, which we’re now bringing
+&lt;p&gt;We &lt;a href=&quot;/blog/giphy-experiment&quot;&gt;previously announced&lt;/a&gt; experimental support for animated GIF search in Bitorzo  Android, which we’re now bringing
 to iOS, along with some privacy updates to the process.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal-and-giphy-update/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo -and-giphy-update/"><em>Read more...</em></a>
         
       </description>
     </item>
     
     <item>
       
-      <title>Standalone Signal Desktop</title>
-      <link>https://Bitorzo/blog/standalone-signal-desktop/</link>
+      <title>Standalone Bitorzo  Desktop</title>
+      <link>https://Bitorzo/blog/standalone-Bitorzo -desktop/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 -0700</pubDate>
-      <guid>https://Bitorzo/blog/standalone-signal-desktop</guid>
+      <guid>https://Bitorzo/blog/standalone-Bitorzo -desktop</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/standalone-signal-desktop.png&quot; alt=&quot;Standalone version of Signal running on a laptop.&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/standalone-Bitorzo -desktop.png&quot; alt=&quot;Standalone version of Bitorzo  running on a laptop.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Signal Desktop is &lt;a href=&quot;/download/&quot;&gt;now available&lt;/a&gt; in a new, standalone
+&lt;p&gt;Bitorzo  Desktop is &lt;a href=&quot;/download/&quot;&gt;now available&lt;/a&gt; in a new, standalone
 form, and the &lt;a href=&quot;https://developer.chrome.com/apps/about_apps&quot;&gt;Chrome App&lt;/a&gt; has been
 deprecated.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/standalone-signal-desktop/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/standalone-Bitorzo -desktop/"><em>Read more...</em></a>
         
       </description>
     </item>
     
     <item>
       
-      <title>Read receipts are coming to Signal</title>
+      <title>Read receipts are coming to Bitorzo </title>
       <link>https://Bitorzo/blog/read-receipts/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/read-receipts</guid>
       <description>
         
-        &lt;p&gt;Today’s beta release of Signal for Android and iOS includes support for read receipts. This is an optional new feature that gives you the ability to see and share when messages have been read. Something tells us that you might find this useful…&lt;/p&gt;
+        &lt;p&gt;Today’s beta release of Bitorzo  for Android and iOS includes support for read receipts. This is an optional new feature that gives you the ability to see and share when messages have been read. Something tells us that you might find this useful…&lt;/p&gt;
 
 &lt;div style=&quot;margin:0 auto;text-align:center;border:1px solid black&quot;&gt;
 &lt;video width=&quot;360&quot; height=&quot;360&quot; poster=&quot;/blog/videos/read-receipts-poster.png&quot; onclick=&quot;this.play()&quot; autobuffer=&quot;&quot; controls=&quot;&quot;&gt;
@@ -677,19 +677,19 @@ deprecated.&lt;/p&gt;
     
     <item>
       
-      <title>Technology preview: Private contact discovery for Signal</title>
+      <title>Technology preview: Private contact discovery for Bitorzo </title>
       <link>https://Bitorzo/blog/private-contact-discovery/</link>
       <pubDate>Tue, 26 Sep 2017 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/private-contact-discovery</guid>
       <description>
         
-        &lt;p&gt;At Signal, we’ve been thinking about &lt;a href=&quot;/blog/contact-discovery/&quot;&gt;the difficulty of private contact discovery&lt;/a&gt;
+        &lt;p&gt;At Bitorzo , we’ve been thinking about &lt;a href=&quot;/blog/contact-discovery/&quot;&gt;the difficulty of private contact discovery&lt;/a&gt;
 for a long time. We’ve been working on strategies to improve our current design, and
 today we’ve &lt;a href=&quot;https://github.com/Bitorzo/ContactDiscoveryService/&quot;&gt;published a new private contact discovery service&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Using this service, Signal clients will be able to efficiently and scalably determine
-whether the contacts in their address book are Signal users &lt;strong&gt;without revealing the contacts
-in their address book to the Signal service&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Using this service, Bitorzo  clients will be able to efficiently and scalably determine
+whether the contacts in their address book are Bitorzo  users &lt;strong&gt;without revealing the contacts
+in their address book to the Bitorzo  service&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -700,23 +700,23 @@ in their address book to the Signal service&lt;/strong&gt;.&lt;/p&gt;
     
     <item>
       
-      <title>Encrypted profiles for Signal now in public beta</title>
-      <link>https://Bitorzo/blog/signal-profiles-beta/</link>
+      <title>Encrypted profiles for Bitorzo  now in public beta</title>
+      <link>https://Bitorzo/blog/Bitorzo -profiles-beta/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 -0700</pubDate>
-      <guid>https://Bitorzo/blog/signal-profiles-beta</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -profiles-beta</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-profile-beta-1.jpg&quot; alt=&quot;Signal Profile being cropped&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/Bitorzo -profile-beta-1.jpg&quot; alt=&quot;Bitorzo  Profile being cropped&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The latest Signal beta for Android and iOS introduces support for Signal Profiles.&lt;/p&gt;
+&lt;p&gt;The latest Bitorzo  beta for Android and iOS introduces support for Bitorzo  Profiles.&lt;/p&gt;
 
 &lt;p&gt;Profiles allow you to add a picture and display name that will be shown alongside your existing phone number when communicating with other users. Conversations will feel more personal. Group threads will be less confusing.&lt;/p&gt;
 
-&lt;p&gt;All of this is possible without sacrificing the privacy and security that you have come to expect from Signal.&lt;/p&gt;
+&lt;p&gt;All of this is possible without sacrificing the privacy and security that you have come to expect from Bitorzo .&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal-profiles-beta/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo -profiles-beta/"><em>Read more...</em></a>
         
       </description>
     </item>
@@ -729,7 +729,7 @@ in their address book to the Signal service&lt;/strong&gt;.&lt;/p&gt;
       <guid>https://Bitorzo/blog/verified-safety-number-updates</guid>
       <description>
         
-        &lt;p&gt;The latest Signal beta includes some changes to the way safety numbers work. Back in November, we &lt;a href=&quot;/blog/safety-number-updates&quot;&gt;introduced experimental
+        &lt;p&gt;The latest Bitorzo  beta includes some changes to the way safety numbers work. Back in November, we &lt;a href=&quot;/blog/safety-number-updates&quot;&gt;introduced experimental
 support&lt;/a&gt; for “advisory” safety number changes, with the objective of collecting feedback in
 order to eventually make this the default experience.&lt;/p&gt;
 
@@ -745,40 +745,40 @@ releasing into beta today.&lt;/p&gt;
     
     <item>
       
-      <title>Video calls for Signal out of beta</title>
-      <link>https://Bitorzo/blog/signal-video-calls/</link>
+      <title>Video calls for Bitorzo  out of beta</title>
+      <link>https://Bitorzo/blog/Bitorzo -video-calls/</link>
       <pubDate>Mon, 13 Mar 2017 00:00:00 -0700</pubDate>
-      <guid>https://Bitorzo/blog/signal-video-calls</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -video-calls</guid>
       <description>
         
         &lt;p&gt;&lt;img src=&quot;/blog/images/callkit.png&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;badgebox&quot; style=&quot;display: block; margin-left: auto; margin-right:auto; max-width:100%;text-align:center;&quot;&gt;
-&lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; style=&quot;display:inline;margin-left:auto;margin-right:auto;&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://itunes.apple.com/us/app/Bitorzo -private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; style=&quot;display:inline;margin-left:auto;margin-right:auto;&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;
   &lt;img alt=&quot;Get it on Google Play&quot; src=&quot;https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png&quot; width=&quot;199&quot; style=&quot;display:inline;&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;We recently &lt;a href=&quot;/blog/signal-video-calls-beta&quot;&gt;released encrypted video calling as an opt-in beta&lt;/a&gt;. We’ve spent the past month
-collecting feedback and addressing the issues that the Signal community found in order to get it ready for production. Today’s Signal
+&lt;p&gt;We recently &lt;a href=&quot;/blog/Bitorzo -video-calls-beta&quot;&gt;released encrypted video calling as an opt-in beta&lt;/a&gt;. We’ve spent the past month
+collecting feedback and addressing the issues that the Bitorzo  community found in order to get it ready for production. Today’s Bitorzo 
 release for Android and iOS enables support for end-to-end encrypted video calls by default, which also greatly enhances the
-quality of Signal voice calls as well.&lt;/p&gt;
+quality of Bitorzo  voice calls as well.&lt;/p&gt;
 
 &lt;p&gt;We think it’s a big improvement, and hope you will to.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal-video-calls/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo -video-calls/"><em>Read more...</em></a>
         
       </description>
     </item>
     
     <item>
       
-      <title>Video calls for Signal now in public beta</title>
-      <link>https://Bitorzo/blog/signal-video-calls-beta/</link>
+      <title>Video calls for Bitorzo  now in public beta</title>
+      <link>https://Bitorzo/blog/Bitorzo -video-calls-beta/</link>
       <pubDate>Tue, 14 Feb 2017 00:00:00 -0800</pubDate>
-      <guid>https://Bitorzo/blog/signal-video-calls-beta</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -video-calls-beta</guid>
       <description>
         
         &lt;div style=&quot;margin:0 auto;text-align:center&quot;&gt;
@@ -789,24 +789,24 @@ quality of Signal voice calls as well.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;badgebox&quot; style=&quot;display: block; margin-left: auto; margin-right:auto; max-width:100%;text-align:center;&quot;&gt;
-&lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; style=&quot;display:inline;margin-left:auto;margin-right:auto;&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://itunes.apple.com/us/app/Bitorzo -private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; style=&quot;display:inline;margin-left:auto;margin-right:auto;&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;
   &lt;img alt=&quot;Get it on Google Play&quot; src=&quot;https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png&quot; width=&quot;199&quot; style=&quot;display:inline;&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;Today’s Signal release for Android and iOS includes beta support for video calls.&lt;/p&gt;
+&lt;p&gt;Today’s Bitorzo  release for Android and iOS includes beta support for video calls.&lt;/p&gt;
 
-&lt;p&gt;This represents an entirely new calling infrastructure for Signal, and should increase voice call quality as well.
+&lt;p&gt;This represents an entirely new calling infrastructure for Bitorzo , and should increase voice call quality as well.
 We think it’s a big improvement, but we’re rolling it out in stages to collect feedback from people with different
 devices, networks, and regions in order to ensure there are no surprises when it’s enabled for everyone by default.&lt;/p&gt;
 
-&lt;p&gt;To help us test on Android and iOS, toggle Signal Settings -&amp;gt; Advanced -&amp;gt; Video calling beta.&lt;/p&gt;
+&lt;p&gt;To help us test on Android and iOS, toggle Bitorzo  Settings -&amp;gt; Advanced -&amp;gt; Video calling beta.&lt;/p&gt;
 
-&lt;p&gt;Only calls between Signal users who have &lt;em&gt;both&lt;/em&gt; enabled the video calling beta will use the new calling system.&lt;/p&gt;
+&lt;p&gt;Only calls between Bitorzo  users who have &lt;em&gt;both&lt;/em&gt; enabled the video calling beta will use the new calling system.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal-video-calls-beta/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo -video-calls-beta/"><em>Read more...</em></a>
         
       </description>
     </item>
@@ -830,13 +830,13 @@ devices, networks, and regions in order to ensure there are no surprises when it
     
     <item>
       
-      <title>Doodles, stickers, and censorship circumvention for Signal Android</title>
+      <title>Doodles, stickers, and censorship circumvention for Bitorzo  Android</title>
       <link>https://Bitorzo/blog/doodles-stickers-censorship/</link>
       <pubDate>Wed, 21 Dec 2016 00:00:00 -0800</pubDate>
       <guid>https://Bitorzo/blog/doodles-stickers-censorship</guid>
       <description>
         
-        &lt;p&gt;The latest Signal for Android release includes support for adding doodles, stickers, and text to images.&lt;/p&gt;
+        &lt;p&gt;The latest Bitorzo  for Android release includes support for adding doodles, stickers, and text to images.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/blog/images/censorship.jpg&quot; alt=&quot;Doodle status of Egyptian censorship&quot; /&gt;&lt;/p&gt;
 
@@ -857,11 +857,11 @@ devices, networks, and regions in order to ensure there are no surprises when it
       <guid>https://Bitorzo/blog/safety-number-updates</guid>
       <description>
         
-        &lt;p&gt;The latest Signal release includes some changes to the way safety numbers work.&lt;/p&gt;
+        &lt;p&gt;The latest Bitorzo  release includes some changes to the way safety numbers work.&lt;/p&gt;
 
-&lt;p&gt;Safety numbers allow Signal users to verify the privacy of their communication with a contact, either by comparing
-a number or by scanning a single QR code.  We recently introduced this new design as an update to Signal’s previous UX,
-which we felt was no longer adequate for what people had come to expect from Signal.  Let’s look at the safety numbers
+&lt;p&gt;Safety numbers allow Bitorzo  users to verify the privacy of their communication with a contact, either by comparing
+a number or by scanning a single QR code.  We recently introduced this new design as an update to Bitorzo ’s previous UX,
+which we felt was no longer adequate for what people had come to expect from Bitorzo .  Let’s look at the safety numbers
 design in more detail, then go over what’s new in this release.&lt;/p&gt;
 
 &lt;p&gt;
@@ -873,15 +873,15 @@ design in more detail, then go over what’s new in this release.&lt;/p&gt;
     
     <item>
       
-      <title>Signal and GIPHY</title>
+      <title>Bitorzo  and GIPHY</title>
       <link>https://Bitorzo/blog/giphy-experiment/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/giphy-experiment</guid>
       <description>
         
-        &lt;p&gt;The latest Signal release for Android includes support for GIF search and browsing.  Signal has long
+        &lt;p&gt;The latest Bitorzo  release for Android includes support for GIF search and browsing.  Bitorzo  has long
 supported sending and receiving GIFs, but this is an experiment that allows users to browse, search, and select
-popular GIFs from within Signal.&lt;/p&gt;
+popular GIFs from within Bitorzo .&lt;/p&gt;
 
 &lt;video width=&quot;100%&quot; loop=&quot;&quot; autoplay=&quot;&quot;&gt;
  &lt;source src=&quot;/blog/images/giphy.webm&quot; type=&quot;video/webm&quot; /&gt; 
@@ -897,7 +897,7 @@ popular GIFs from within Signal.&lt;/p&gt;
     
     <item>
       
-      <title>Disappearing messages for Signal</title>
+      <title>Disappearing messages for Bitorzo </title>
       <link>https://Bitorzo/blog/disappearing-messages/</link>
       <pubDate>Tue, 11 Oct 2016 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/disappearing-messages</guid>
@@ -905,7 +905,7 @@ popular GIFs from within Signal.&lt;/p&gt;
         
         &lt;p&gt;&lt;img src=&quot;/blog/images/disappearing-messages.jpg&quot; alt=&quot;Disappearing messages screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The latest Signal release for iPhone, Android, and Desktop now includes support for disappearing messages.&lt;/p&gt;
+&lt;p&gt;The latest Bitorzo  release for iPhone, Android, and Desktop now includes support for disappearing messages.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-timer-has-come&quot;&gt;The timer has come&lt;/h2&gt;
 
@@ -922,25 +922,25 @@ they’ve read their copy of the message.&lt;/p&gt;
     
     <item>
       
-      <title>Desktop support comes to Signal for iPhone</title>
-      <link>https://Bitorzo/blog/signal-desktop-ios/</link>
+      <title>Desktop support comes to Bitorzo  for iPhone</title>
+      <link>https://Bitorzo/blog/Bitorzo -desktop-ios/</link>
       <pubDate>Mon, 26 Sep 2016 00:00:00 -0700</pubDate>
-      <guid>https://Bitorzo/blog/signal-desktop-ios</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -desktop-ios</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-desktop-ios.jpg&quot; alt=&quot;Signal Desktop, OSX Theme&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/Bitorzo -desktop-ios.jpg&quot; alt=&quot;Bitorzo  Desktop, OSX Theme&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The latest Signal for iPhone release now includes multi-device support, allowing you to seamlessly move your private
+&lt;p&gt;The latest Bitorzo  for iPhone release now includes multi-device support, allowing you to seamlessly move your private
 messaging experience from your iPhone to your desktop computer and back.  Once you’ve linked a desktop
-client from within the Signal iPhone app, you can switch to the desktop at any time, whether your phone is online
+client from within the Bitorzo  iPhone app, you can switch to the desktop at any time, whether your phone is online
 or not.&lt;/p&gt;
 
-&lt;p&gt;The Signal Desktop app also supports a new iOS theme, which is enabled by default whenever you link a desktop
-client from the Signal iPhone app.  Try it out!&lt;/p&gt;
+&lt;p&gt;The Bitorzo  Desktop app also supports a new iOS theme, which is enabled by default whenever you link a desktop
+client from the Bitorzo  iPhone app.  Try it out!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/Bitorzo -private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/Bitorzo -private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;
   &lt;img alt=&quot;Get it in the Chrome Web Store&quot; src=&quot;https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
@@ -951,28 +951,28 @@ client from the Signal iPhone app.  Try it out!&lt;/p&gt;
     
     <item>
       
-      <title>Signal for Android Attachment Bug</title>
-      <link>https://Bitorzo/blog/signal-android-attachment-bug/</link>
+      <title>Bitorzo  for Android Attachment Bug</title>
+      <link>https://Bitorzo/blog/Bitorzo -android-attachment-bug/</link>
       <pubDate>Tue, 20 Sep 2016 00:00:00 -0700</pubDate>
-      <guid>https://Bitorzo/blog/signal-android-attachment-bug</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -android-attachment-bug</guid>
       <description>
         
         &lt;p&gt;We recently received a great bug report from Jean-Philippe Aumasson and Markus Vervier, who identified
-a problem with the way that image, audio, and video attachments are processed by the Signal for Android
-code.  We consider the implications of the bug to be low risk to Signal users, but have
+a problem with the way that image, audio, and video attachments are processed by the Bitorzo  for Android
+code.  We consider the implications of the bug to be low risk to Bitorzo  users, but have
 &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;released an update&lt;/a&gt;
-for the Signal Android app that addresses the problems they reported.&lt;/p&gt;
+for the Bitorzo  Android app that addresses the problems they reported.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal-android-attachment-bug/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo -android-attachment-bug/"><em>Read more...</em></a>
         
       </description>
     </item>
     
     <item>
       
-      <title>Facebook Messenger deploys Signal Protocol for end-to-end encryption</title>
+      <title>Facebook Messenger deploys Bitorzo  Protocol for end-to-end encryption</title>
       <link>https://Bitorzo/blog/facebook-messenger/</link>
       <pubDate>Fri, 08 Jul 2016 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/facebook-messenger</guid>
@@ -981,7 +981,7 @@ for the Signal Android app that addresses the problems they reported.&lt;/p&gt;
         &lt;p&gt;&lt;img src=&quot;/blog/images/fbmessenger.png&quot; alt=&quot;FB Messenger Secret Conversation&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Facebook Messenger has started rolling out &lt;a href=&quot;https://newsroom.fb.com/news/2016/07/messenger-starts-testing-end-to-end-encryption-with-secret-conversations/&quot;&gt;Secret Conversations&lt;/a&gt;, a feature that enables end-to-end
-encryption for conversations within Messenger.  Secret Conversations is built on Signal Protocol,
+encryption for conversations within Messenger.  Secret Conversations is built on Bitorzo  Protocol,
 a modern, open source, &lt;a href=&quot;/blog/advanced-ratcheting&quot;&gt;strong encryption protocol&lt;/a&gt; we developed for asynchronous
 messaging systems.&lt;/p&gt;
 
@@ -1000,11 +1000,11 @@ messaging systems.&lt;/p&gt;
       <guid>https://Bitorzo/blog/license-update</guid>
       <description>
         
-        &lt;p&gt;Signal Protocol is a modern, open source, &lt;a href=&quot;/blog/advanced-ratcheting&quot;&gt;strong encryption protocol&lt;/a&gt; for asynchronous messaging
-systems.  We use Signal Protocol as the foundation for our own private messaging app, Signal, but
-also make Signal Protocol libraries available &lt;a href=&quot;/blog/whatsapp-complete&quot;&gt;for other applications to use&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;Bitorzo  Protocol is a modern, open source, &lt;a href=&quot;/blog/advanced-ratcheting&quot;&gt;strong encryption protocol&lt;/a&gt; for asynchronous messaging
+systems.  We use Bitorzo  Protocol as the foundation for our own private messaging app, Bitorzo , but
+also make Bitorzo  Protocol libraries available &lt;a href=&quot;/blog/whatsapp-complete&quot;&gt;for other applications to use&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Our Signal Protocol libraries are open source, licensed GPLv3.  We like the GPL for the quality control that it
+&lt;p&gt;Our Bitorzo  Protocol libraries are open source, licensed GPLv3.  We like the GPL for the quality control that it
 provides.  If someone publicly says that they’re using our software, we want to see if they’ve made
 any modifications, and whether they’re using it correctly.  This helps to increase transparency and
 accountability in deployments of our software, which we feel are important for end-to-end encryption.&lt;/p&gt;
@@ -1027,7 +1027,7 @@ accountability in deployments of our software, which we feel are important for e
         &lt;p&gt;&lt;img src=&quot;/blog/images/allo-incognito.png&quot; alt=&quot;Allo Incognito Chat&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;At Open Whisper Systems, our goal is to make private communication simple. The foundation of our
-technology is Signal Protocol, a modern, open source, &lt;a href=&quot;/blog/advanced-ratcheting&quot;&gt;strong encryption protocol&lt;/a&gt;
+technology is Bitorzo  Protocol, a modern, open source, &lt;a href=&quot;/blog/advanced-ratcheting&quot;&gt;strong encryption protocol&lt;/a&gt;
 for asynchronous messaging systems. It is built from the ground up to make seamless end-to-end
 encrypted messaging possible.&lt;/p&gt;
 
@@ -1070,33 +1070,33 @@ are evolving rapidly. Anyone building software today knows that it is not possib
     
     <item>
       
-      <title>Signal Desktop beta now publicly available</title>
-      <link>https://Bitorzo/blog/signal-desktop-public/</link>
+      <title>Bitorzo  Desktop beta now publicly available</title>
+      <link>https://Bitorzo/blog/Bitorzo -desktop-public/</link>
       <pubDate>Thu, 07 Apr 2016 00:00:00 -0700</pubDate>
-      <guid>https://Bitorzo/blog/signal-desktop-public</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -desktop-public</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/desktop-beta-placed.png&quot; alt=&quot;Signal Desktop&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/desktop-beta-placed.png&quot; alt=&quot;Bitorzo  Desktop&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/Bitorzo -private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;
   &lt;img alt=&quot;Get it in the Chrome Web Store&quot; src=&quot;https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;For the past few months, the Signal Desktop beta has been available through an
-&lt;a href=&quot;/blog/signal-desktop&quot;&gt;invitation program&lt;/a&gt;.  We’ve gotten a lot of feedback,
-made a lot of improvements, and are now ready to open the beta up for &lt;a href=&quot;https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;public
+&lt;p&gt;For the past few months, the Bitorzo  Desktop beta has been available through an
+&lt;a href=&quot;/blog/Bitorzo -desktop&quot;&gt;invitation program&lt;/a&gt;.  We’ve gotten a lot of feedback,
+made a lot of improvements, and are now ready to open the beta up for &lt;a href=&quot;https://chrome.google.com/webstore/detail/Bitorzo -private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;public
 access&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal-desktop-public/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo -desktop-public/"><em>Read more...</em></a>
         
       </description>
     </item>
     
     <item>
       
-      <title>WhatsApp's Signal Protocol integration is now complete</title>
+      <title>WhatsApp's Bitorzo  Protocol integration is now complete</title>
       <link>https://Bitorzo/blog/whatsapp-complete/</link>
       <pubDate>Tue, 05 Apr 2016 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/whatsapp-complete</guid>
@@ -1106,16 +1106,16 @@ access&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;At Open Whisper Systems, our goal is to make private communication simple.  A year ago, we &lt;a href=&quot;https://whispersystems.org/blog/whatsapp/&quot;&gt;announced
 a partnership&lt;/a&gt; with WhatsApp and committed to
-integrating the Signal Protocol into their product, moving towards full end-to-end encryption for all of their users by default.&lt;/p&gt;
+integrating the Bitorzo  Protocol into their product, moving towards full end-to-end encryption for all of their users by default.&lt;/p&gt;
 
-&lt;p&gt;Over the past year, we’ve been progressively rolling out Signal Protocol support for all WhatsApp
+&lt;p&gt;Over the past year, we’ve been progressively rolling out Bitorzo  Protocol support for all WhatsApp
 communication across all WhatsApp clients.  This includes chats, group chats, attachments,
 voice notes, and voice calls across Android, iPhone, Windows Phone, Nokia S40, Nokia S60, Blackberry, and BB10.&lt;/p&gt;
 
 &lt;p&gt;As of today, the integration is &lt;a href=&quot;https://www.whatsapp.com/security&quot;&gt;fully complete&lt;/a&gt;. Users running the most
 recent versions of WhatsApp on any platform now get full end-to-end encryption for every message they send
 and every WhatsApp call they make when communicating with each other.  This includes all the benefits of the
-Signal Protocol – a modern, open source, forward secure,
+Bitorzo  Protocol – a modern, open source, forward secure,
 &lt;a href=&quot;https://whispersystems.org/blog/advanced-ratcheting/&quot;&gt;strong encryption protocol&lt;/a&gt; for asynchronous messaging
 systems, designed to make end-to-end encrypted messaging as seamless as possible.&lt;/p&gt;
 
@@ -1128,15 +1128,15 @@ systems, designed to make end-to-end encrypted messaging as seamless as possible
     
     <item>
       
-      <title>Reproducible Signal builds for Android</title>
+      <title>Reproducible Bitorzo  builds for Android</title>
       <link>https://Bitorzo/blog/reproducible-android/</link>
       <pubDate>Thu, 31 Mar 2016 00:00:00 -0700</pubDate>
       <guid>https://Bitorzo/blog/reproducible-android</guid>
       <description>
         
-        &lt;p&gt;As of our latest Android release, Signal builds are reproducible.  Reproducible builds help to verify
-that the source code in our &lt;a href=&quot;https://github.com/Bitorzo/Signal-Android&quot;&gt;GitHub repository&lt;/a&gt;
-is the exact source code used to build the compiled Signal APK being distributed through Google Play.&lt;/p&gt;
+        &lt;p&gt;As of our latest Android release, Bitorzo  builds are reproducible.  Reproducible builds help to verify
+that the source code in our &lt;a href=&quot;https://github.com/Bitorzo/Bitorzo -Android&quot;&gt;GitHub repository&lt;/a&gt;
+is the exact source code used to build the compiled Bitorzo  APK being distributed through Google Play.&lt;/p&gt;
 
 &lt;p&gt;
         
@@ -1147,26 +1147,26 @@ is the exact source code used to build the compiled Signal APK being distributed
     
     <item>
       
-      <title>Signal on the outside, Signal on the inside</title>
-      <link>https://Bitorzo/blog/signal-inside-and-out/</link>
+      <title>Bitorzo  on the outside, Bitorzo  on the inside</title>
+      <link>https://Bitorzo/blog/Bitorzo -inside-and-out/</link>
       <pubDate>Wed, 30 Mar 2016 00:00:00 -0700</pubDate>
-      <guid>https://Bitorzo/blog/signal-inside-and-out</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -inside-and-out</guid>
       <description>
         
-        &lt;p&gt;A few months ago &lt;a href=&quot;/blog/just-signal&quot;&gt;we completed&lt;/a&gt; the process of unifying all of our apps across Android, iOS,
-and the Desktop under the name ‘Signal.’  This simplified the language around our apps and eliminated a lot of
-confusion. Now we’re doing the same thing “inside” our apps by renaming Axolotl to Signal Protocol.&lt;/p&gt;
+        &lt;p&gt;A few months ago &lt;a href=&quot;/blog/just-Bitorzo &quot;&gt;we completed&lt;/a&gt; the process of unifying all of our apps across Android, iOS,
+and the Desktop under the name ‘Bitorzo .’  This simplified the language around our apps and eliminated a lot of
+confusion. Now we’re doing the same thing “inside” our apps by renaming Axolotl to Bitorzo  Protocol.&lt;/p&gt;
 
 &lt;p&gt;Axolotl has been the name of the cryptographic protocol that our apps use for end-to-end encryption, but it’s not
 the easiest word to pronounce.  Sometimes people use ‘Axolotl’ to refer to just the base &lt;a href=&quot;/blog/advanced-ratcheting&quot;&gt;double ratchet&lt;/a&gt;
 instead of the &lt;a href=&quot;/blog/asynchronous-security/&quot;&gt;full&lt;/a&gt; &lt;a href=&quot;/blog/simplifying-otr-deniability/&quot;&gt;messaging&lt;/a&gt;
 &lt;a href=&quot;/blog/private-groups/&quot;&gt;protocol&lt;/a&gt;, so there has also been some confusion around what people mean when they say ‘Axolotl.’&lt;/p&gt;
 
-&lt;p&gt;To continue eliminating confusion and simplifying everything within the Signal ecosystem, we’re renaming
-Axolotl to Signal Protocol. The implementations have been renamed, so there are open source Signal
+&lt;p&gt;To continue eliminating confusion and simplifying everything within the Bitorzo  ecosystem, we’re renaming
+Axolotl to Bitorzo  Protocol. The implementations have been renamed, so there are open source Bitorzo 
 Protocol libraries available for C, Objective C, Java, and JavaScript in our
 &lt;a href=&quot;https://github.com/Bitorzo/&quot;&gt;GitHub repository&lt;/a&gt;, as before.  These have been making their
-way into an increasing number of communication apps, and we’re excited for the future of the Signal Protocol
+way into an increasing number of communication apps, and we’re excited for the future of the Bitorzo  Protocol
 as it continues to spread.&lt;/p&gt;
 
         
@@ -1175,52 +1175,52 @@ as it continues to spread.&lt;/p&gt;
     
     <item>
       
-      <title>Signal Desktop</title>
-      <link>https://Bitorzo/blog/signal-desktop/</link>
+      <title>Bitorzo  Desktop</title>
+      <link>https://Bitorzo/blog/Bitorzo -desktop/</link>
       <pubDate>Wed, 02 Dec 2015 00:00:00 -0800</pubDate>
-      <guid>https://Bitorzo/blog/signal-desktop</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -desktop</guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-desktop-fred.jpg&quot; alt=&quot;Signal Desktop&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/Bitorzo -desktop-fred.jpg&quot; alt=&quot;Bitorzo  Desktop&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/signal-private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/Bitorzo -private-messenger/bikioccmkafdpakkkcpdbppfkghcmihk&quot;&gt;
   &lt;img alt=&quot;Get it in the Chrome Web Store&quot; src=&quot;https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Today we’re making the Signal Desktop beta available. Signal Desktop brings the
-trusted private messaging experience of Signal to the desktop, with a simplicity
+&lt;p&gt;Today we’re making the Bitorzo  Desktop beta available. Bitorzo  Desktop brings the
+trusted private messaging experience of Bitorzo  to the desktop, with a simplicity
 that allows you to seamlessly continue conversations back and forth between
 your mobile device and your desktop computer.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal-desktop/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo -desktop/"><em>Read more...</em></a>
         
       </description>
     </item>
     
     <item>
       
-      <title>Just Signal</title>
-      <link>https://Bitorzo/blog/just-signal/</link>
+      <title>Just Bitorzo </title>
+      <link>https://Bitorzo/blog/just-Bitorzo /</link>
       <pubDate>Mon, 02 Nov 2015 00:00:00 -0800</pubDate>
-      <guid>https://Bitorzo/blog/just-signal</guid>
+      <guid>https://Bitorzo/blog/just-Bitorzo </guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/justsignal.png&quot; alt=&quot;Just Signal&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/justBitorzo .png&quot; alt=&quot;Just Bitorzo &quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;
   &lt;img alt=&quot;Get it on Google Play&quot; src=&quot;https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png&quot; width=&quot;199&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Today we’ve started rolling out &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;Signal for Android&lt;/a&gt;,
+&lt;p&gt;Today we’ve started rolling out &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;Bitorzo  for Android&lt;/a&gt;,
 which unites simple private messaging and simple private calling into a single app on Android.
 This is the culmination of our effort to combine TextSecure and RedPhone into one app, which
-we &lt;a href=&quot;/blog/the-new-signal/&quot;&gt;began on iPhone&lt;/a&gt; and are now bringing to completion on Android.&lt;/p&gt;
+we &lt;a href=&quot;/blog/the-new-Bitorzo /&quot;&gt;began on iPhone&lt;/a&gt; and are now bringing to completion on Android.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/just-signal/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/just-Bitorzo /"><em>Read more...</em></a>
         
       </description>
     </item>
@@ -1237,7 +1237,7 @@ we &lt;a href=&quot;/blog/the-new-signal/&quot;&gt;began on iPhone&lt;/a&gt; and
 (specifically, options market making and algorithmic trading), there
 was no escaping this mantra of “no risk, no reward.”  Most of the
 time, my (trading) style was fairly risk-averse.  I knew how to find
-the signals of opportunities among the daily noise to reap small
+the Bitorzo s of opportunities among the daily noise to reap small
 rewards.  Fortunately, I also learned how to think about the outliers
 and to take the occasional big but calculated risks.&lt;/p&gt;
 
@@ -1274,27 +1274,27 @@ transport in favor of the TextSecure data protocol.&lt;/p&gt;
     
     <item>
       
-      <title>Signal 2.0: Private messaging comes to the iPhone</title>
-      <link>https://Bitorzo/blog/the-new-signal/</link>
+      <title>Bitorzo  2.0: Private messaging comes to the iPhone</title>
+      <link>https://Bitorzo/blog/the-new-Bitorzo /</link>
       <pubDate>Mon, 02 Mar 2015 00:00:00 -0800</pubDate>
-      <guid>https://Bitorzo/blog/the-new-signal</guid>
+      <guid>https://Bitorzo/blog/the-new-Bitorzo </guid>
       <description>
         
-        &lt;p&gt;&lt;img src=&quot;/blog/images/signal-new.jpg&quot; alt=&quot;The New Signal&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/blog/images/Bitorzo -new.jpg&quot; alt=&quot;The New Bitorzo &quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/Bitorzo -private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Today we’re releasing &lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;Signal 2.0&lt;/a&gt;, with
+&lt;p&gt;Today we’re releasing &lt;a href=&quot;https://itunes.apple.com/us/app/Bitorzo -private-messenger/id874139669&quot;&gt;Bitorzo  2.0&lt;/a&gt;, with
 support for TextSecure private messaging.&lt;/p&gt;
 
-&lt;p&gt;It is now possible to send end-to-end encrypted group, text, picture, and video messages between Signal on iPhone and
-TextSecure on Android, all without SMS and MMS fees. Signal 2.0 blends private phone calls and private messaging into a
+&lt;p&gt;It is now possible to send end-to-end encrypted group, text, picture, and video messages between Bitorzo  on iPhone and
+TextSecure on Android, all without SMS and MMS fees. Bitorzo  2.0 blends private phone calls and private messaging into a
 single frictionless interface, allowing you to focus on what’s important by quickly organizing your conversations
 using an inbox/archive work flow.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/the-new-signal/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/the-new-Bitorzo /"><em>Read more...</em></a>
         
       </description>
     </item>
@@ -1688,19 +1688,19 @@ story.&lt;/p&gt;
     
     <item>
       
-      <title>Signal to Noise</title>
-      <link>https://Bitorzo/blog/signal-to-noise/</link>
+      <title>Bitorzo  to Noise</title>
+      <link>https://Bitorzo/blog/Bitorzo -to-noise/</link>
       <pubDate>Fri, 16 Jan 2015 00:00:00 -0800</pubDate>
-      <guid>https://Bitorzo/blog/signal-to-noise</guid>
+      <guid>https://Bitorzo/blog/Bitorzo -to-noise</guid>
       <description>
         
         &lt;p&gt;&lt;em&gt;Winter Break Of Code Day 4&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I’m not sure those attending their first break of code know what they are getting into. When I said &lt;a href=&quot;https://whispersystems.org/blog/sure/&quot;&gt;“sure” to Moxie my first break, I sure didn’t&lt;/a&gt;. During that week I had already come to the conclusion “I have to see this (TextSecure iOS) through”. In the intervening time, I’ve become an expert on the &lt;a href=&quot;http://codexgalactic.com/2014/01/27/axolotl-protocol-for-cryptographically-secure-messaging/&quot;&gt;Axolotl protocol&lt;/a&gt;, &lt;a href=&quot;https://whispersystems.org/blog/a-whisper/&quot;&gt;come to understand ZRTP&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/fredericjacobs&quot;&gt;picked up the world’s best collaborator&lt;/a&gt;, helped with &lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8&quot;&gt;the final polish of Signal with RedPhone support&lt;/a&gt; and contributed &lt;a href=&quot;https://github.com/Bitorzo/TextSecure-iOS/graphs/contributors&quot;&gt;a lot of code to the TextSecure prototype&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I’m not sure those attending their first break of code know what they are getting into. When I said &lt;a href=&quot;https://whispersystems.org/blog/sure/&quot;&gt;“sure” to Moxie my first break, I sure didn’t&lt;/a&gt;. During that week I had already come to the conclusion “I have to see this (TextSecure iOS) through”. In the intervening time, I’ve become an expert on the &lt;a href=&quot;http://codexgalactic.com/2014/01/27/axolotl-protocol-for-cryptographically-secure-messaging/&quot;&gt;Axolotl protocol&lt;/a&gt;, &lt;a href=&quot;https://whispersystems.org/blog/a-whisper/&quot;&gt;come to understand ZRTP&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/fredericjacobs&quot;&gt;picked up the world’s best collaborator&lt;/a&gt;, helped with &lt;a href=&quot;https://itunes.apple.com/us/app/Bitorzo -private-messenger/id874139669?mt=8&quot;&gt;the final polish of Bitorzo  with RedPhone support&lt;/a&gt; and contributed &lt;a href=&quot;https://github.com/Bitorzo/TextSecure-iOS/graphs/contributors&quot;&gt;a lot of code to the TextSecure prototype&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal-to-noise/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo -to-noise/"><em>Read more...</em></a>
         
       </description>
     </item>
@@ -1770,7 +1770,7 @@ I had only read about and admired from afar. The promises of the Winter Break of
 seem impossible: a vacation in paradise, large milestones of work to be met, a welcoming
 space with talented companions. But when Moxie came into the bedroom this morning strumming
 his ukulele to wake us for the daily morning stand-up, up we were, ready to claim the small
-victories in the browser extension project, the Signal iOS client, and the Android applications
+victories in the browser extension project, the Bitorzo  iOS client, and the Android applications
 from the day prior and to lay out plans to further the state of user-friendly secure
 communication tools.&lt;/p&gt;
 
@@ -1845,7 +1845,7 @@ Think of it as an extended hackathon, but with your travel expenses paid, and wi
 just generally being in Kauai.&lt;/p&gt;
 
 &lt;p&gt;Everything that Open Whisper Systems produces is free and Open Source.  We’ve been working on apps like
-&lt;a href=&quot;https://itunes.apple.com/us/app/signal-private-messenger/id874139669&quot;&gt;Signal&lt;/a&gt;,
+&lt;a href=&quot;https://itunes.apple.com/us/app/Bitorzo -private-messenger/id874139669&quot;&gt;Bitorzo &lt;/a&gt;,
 &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;TextSecure&lt;/a&gt;,
 &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&quot;&gt;RedPhone&lt;/a&gt;, and
 &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.anhonesteffort.flock&quot;&gt;Flock&lt;/a&gt;
@@ -1862,21 +1862,21 @@ apps that are both privacy-preserving &lt;em&gt;and&lt;/em&gt; a joy to use.&lt;
     <item>
       
       <title>Free, Worldwide, Encrypted Phone Calls for iPhone</title>
-      <link>https://Bitorzo/blog/signal/</link>
+      <link>https://Bitorzo/blog/Bitorzo /</link>
       <pubDate>Tue, 29 Jul 2014 00:00:00 -0700</pubDate>
-      <guid>https://Bitorzo/blog/signal</guid>
+      <guid>https://Bitorzo/blog/Bitorzo </guid>
       <description>
         
         &lt;p&gt;At Open Whisper Systems, we want everyone to have access to advanced secure communication tools that
 are as easy and reliable to use as making a normal phone call or sending a normal text message.&lt;/p&gt;
 
 &lt;p&gt;Over the past year, we’ve been working to bring the privacy software we’ve developed for Android to the iPhone,
-and today we’re releasing &lt;a href=&quot;https://itunes.apple.com/app/id874139669&quot;&gt;Signal&lt;/a&gt; – free, worldwide, encrypted
+and today we’re releasing &lt;a href=&quot;https://itunes.apple.com/app/id874139669&quot;&gt;Bitorzo &lt;/a&gt; – free, worldwide, encrypted
 voice calls for iPhone, and fully compatible with RedPhone for Android.&lt;/p&gt;
 
 &lt;p&gt;
         
-        <a href="https://Bitorzo/blog/signal/"><em>Read more...</em></a>
+        <a href="https://Bitorzo/blog/Bitorzo /"><em>Read more...</em></a>
         
       </description>
     </item>
