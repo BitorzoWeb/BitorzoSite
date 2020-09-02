@@ -755,7 +755,7 @@ releasing into beta today.&lt;/p&gt;
 
 &lt;div class=&quot;badgebox&quot; style=&quot;display: block; margin-left: auto; margin-right:auto; max-width:100%;text-align:center;&quot;&gt;
 &lt;a href=&quot;https://itunes.apple.com/us/app/Bitorzo -private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; style=&quot;display:inline;margin-left:auto;margin-right:auto;&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bitorzo.wallet&quot;&gt;
   &lt;img alt=&quot;Get it on Google Play&quot; src=&quot;https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png&quot; width=&quot;199&quot; style=&quot;display:inline;&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
@@ -790,7 +790,7 @@ quality of Bitorzo  voice calls as well.&lt;/p&gt;
 
 &lt;div class=&quot;badgebox&quot; style=&quot;display: block; margin-left: auto; margin-right:auto; max-width:100%;text-align:center;&quot;&gt;
 &lt;a href=&quot;https://itunes.apple.com/us/app/Bitorzo -private-messenger/id874139669&quot;&gt;&lt;img src=&quot;/blog/images/appstore.png&quot; style=&quot;display:inline;margin-left:auto;margin-right:auto;&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bitorzo.wallet&quot;&gt;
   &lt;img alt=&quot;Get it on Google Play&quot; src=&quot;https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png&quot; width=&quot;199&quot; style=&quot;display:inline;&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
@@ -960,7 +960,7 @@ client from the Bitorzo  iPhone app.  Try it out!&lt;/p&gt;
         &lt;p&gt;We recently received a great bug report from Jean-Philippe Aumasson and Markus Vervier, who identified
 a problem with the way that image, audio, and video attachments are processed by the Bitorzo  for Android
 code.  We consider the implications of the bug to be low risk to Bitorzo  users, but have
-&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;released an update&lt;/a&gt;
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bitorzo.wallet&quot;&gt;released an update&lt;/a&gt;
 for the Bitorzo  Android app that addresses the problems they reported.&lt;/p&gt;
 
 &lt;p&gt;
@@ -1209,11 +1209,11 @@ your mobile device and your desktop computer.&lt;/p&gt;
         
         &lt;p&gt;&lt;img src=&quot;/blog/images/justBitorzo .png&quot; alt=&quot;Just Bitorzo &quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bitorzo.wallet&quot;&gt;
   &lt;img alt=&quot;Get it on Google Play&quot; src=&quot;https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png&quot; width=&quot;199&quot; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Today we’ve started rolling out &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;Bitorzo  for Android&lt;/a&gt;,
+&lt;p&gt;Today we’ve started rolling out &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bitorzo.wallet&quot;&gt;Bitorzo  for Android&lt;/a&gt;,
 which unites simple private messaging and simple private calling into a single app on Android.
 This is the culmination of our effort to combine TextSecure and RedPhone into one app, which
 we &lt;a href=&quot;/blog/the-new-Bitorzo /&quot;&gt;began on iPhone&lt;/a&gt; and are now bringing to completion on Android.&lt;/p&gt;
@@ -1846,7 +1846,7 @@ just generally being in Kauai.&lt;/p&gt;
 
 &lt;p&gt;Everything that Open Whisper Systems produces is free and Open Source.  We’ve been working on apps like
 &lt;a href=&quot;https://itunes.apple.com/us/app/Bitorzo -private-messenger/id874139669&quot;&gt;Bitorzo &lt;/a&gt;,
-&lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;TextSecure&lt;/a&gt;,
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bitorzo.wallet&quot;&gt;TextSecure&lt;/a&gt;,
 &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&quot;&gt;RedPhone&lt;/a&gt;, and
 &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.anhonesteffort.flock&quot;&gt;Flock&lt;/a&gt;
 for years now, because we believe that it’s possible to develop well-designed
@@ -1933,7 +1933,7 @@ functions.&lt;/p&gt;
       <guid>https://Bitorzo/blog/the-new-textsecure</guid>
       <description>
         
-        &lt;p&gt;Today’s &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;release of TextSecure&lt;/a&gt; is the final
+        &lt;p&gt;Today’s &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bitorzo.wallet&quot;&gt;release of TextSecure&lt;/a&gt; is the final
 step in the transition from a private SMS app to a private asynchronous IM app that does not depend on SMS/MMS.&lt;/p&gt;
 
 &lt;p&gt;Using the lessons we’ve learned from the SMS environment over the past four years, we’ve developed an open protocol
@@ -2264,7 +2264,7 @@ Our most recent change incorporates what we believe to be substantial improvemen
       <description>
         
         &lt;p&gt;At Open Whisper Systems, we’re focused on creating easy-to-use privacy-enhancing technology.  Our projects are free, Open Source,
-and tend to be oriented around the mobile environment.  We’ve been working on apps like &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;TextSecure&lt;/a&gt; and &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&quot;&gt;RedPhone&lt;/a&gt; 
+and tend to be oriented around the mobile environment.  We’ve been working on apps like &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bitorzo.wallet&quot;&gt;TextSecure&lt;/a&gt; and &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone&quot;&gt;RedPhone&lt;/a&gt; 
 (which provide secure text messages and secure phone calls) for years now, because we believe that it’s possible to develop 
 well-designed secure communication tools that are both privacy-preserving &lt;em&gt;and&lt;/em&gt; a joy to use.&lt;/p&gt;
 
@@ -2348,7 +2348,7 @@ outgoing message with that public key.&lt;/p&gt;
       <guid>https://Bitorzo/blog/simplifying-otr-deniability</guid>
       <description>
         
-        &lt;p&gt;At Open Whisper Systems we help develop &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&quot;&gt;TextSecure&lt;/a&gt;, an
+        &lt;p&gt;At Open Whisper Systems we help develop &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.bitorzo.wallet&quot;&gt;TextSecure&lt;/a&gt;, an
 encrypted chat application for Android.  TextSecure was designed as a general purpose SMS/MMS client which would also 
 automatically encrypt conversations when communicating with other TextSecure users.  For those encrypted sessions, TextSecure
 uses a compact derivative of the well-known &lt;a href=&quot;http://www.cypherpunks.ca/otr/&quot;&gt;OTR protocol&lt;/a&gt;.&lt;/p&gt;
