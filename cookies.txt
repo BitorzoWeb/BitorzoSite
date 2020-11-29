@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.donorbox.org	TRUE	/	FALSE	1999999999	__cfduid	d615753eabc8fd28c5a69f6bfe18720f91598512976
+donorbox.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+

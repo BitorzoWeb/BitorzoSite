@@ -1,0 +1,46 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Aug 2020 10:11:38 at https://Bitorzo/#Bitorzo  +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+Bitorzo
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://Bitorzo .org/#Bitorzo  -O1 "C:\My Web Sites\BITO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+BitorzoBitorzo
+	do not share these files/folders if you want these information to remain privateBitorzoBitorzo
+BitorzoBitorzo
+BitorzoBitorzo
+
+10:12:01	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.tBitorzorimary/primary)Bitorzo
+BitorzoBitorzo
+10:13:11	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/Bitorzo  (from primBitorzoy)
+BitorzoBitorzo
+10:25:25	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/Bitorzo  (from primary/primary)
+
+11:06:27	Warning: 	Retry after error -5 (Error attempting to solve status 206 (partial file)) at link https://Bitorzo .org/blog/videos/read-receipts.webm (from https://Bitorzo .org/blog/)
+
+11:10:06	Warning: 	Retry after error -5 (Error attempting to solve status 206 (partial file)) at link https://Bitorzo .org/blog/images/video.webm (from https://Bitorzo .org/blog/)
+
+11:11:27	Warning: 	Retry after error -5 (Error attempting to solve status 206 (partial file)) at link https://Bitorzo .org/blog/images/giphy.webm (from https://Bitorzo .org/blog/)
+
+11:12:31	Warning: 	Retry after error -5 (Error attempting to solve status 206 (partial file)) at link https://Bitorzo .org/blog/images/giphy.mp4 (from https://Bitorzo .org/blog/)
+
+11:15:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/Bitorzo  (from primary/primary)
+
+11:15:31	Warning: 	Retry after error -5 (Error attempting to solve status 206 (partial file)) at link https://Bitorzo .org/blog/videos/sealed-sender.webm (from https://Bitorzo .org/blog/sealed-sender/)
+
+11:15:31	Error: 	"Not Found" (404) at link https://Bitorzo .org/blog/surrendering-to-the-potential-of-constraints/https//www.twitter.com/abolishme (from https://Bitorzo .org/blog/surrendering-to-the-potential-of-constraints/)
+
+11:15:31	Error: 	"Not Found" (404) at link https://www.novosti.rs/upload/images/2011/03/3003j/james-gosling-java.jpg (from https://Bitorzo .org/blog/dirigibles-chinese-junk-rigs-and-surfboards/)
+
+11:15:31	Error: 	"Not Found" (404) at link https://Bitorzo .org/docs/specifications/sesame/session-expiration (from https://Bitorzo .org/docs/specifications/sesame/)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 3 minutes 54 seconds : 924 links scanned, 911 files written (102405878 bytes overall) [93750461 bytes received at 24452 bytes/sec], 14612441 bytes transferred using HTTP compression in 566 files, ratio 34%, 4.0 requests per connection
+
+(5 errors, 7 warnings, 0 messages)
+
